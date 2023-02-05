@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "care-support",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
